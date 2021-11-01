@@ -36,14 +36,14 @@ To fix this problem, you will create a **validation** that ensures the submitted
 * [Setting up Sinatra Flash](https://gist.github.com/cmkoller/0d3b048b3c4b48ee4955)
 * [Sinatra Flash (for showing one-time messages)](https://github.com/SFEley/sinatra-flash)
 
-## [Walkthrough](walkthroughs/16.md)
+## [Walkthrough](../walkthroughs/16.md)
 
 ## Ed's Walkthrough
 
 Check out the [pull requests](https://github.com/dearshrewdwit/demo_bookmark_manager/pulls) that show the diff for each section I worked through.
 - branch [`version3`](https://github.com/dearshrewdwit/demo_bookmark_manager/tree/version3): Steps 14-15 | [recording](https://youtu.be/c7vVCXJzjX0)
 
-[Next Challenge](./17_one_to_many_relations.md)
+[Next Challenge](17_one_to_many_relations.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

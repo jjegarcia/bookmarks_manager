@@ -50,14 +50,14 @@ In this challenge, you will set up a **many to many relationship** between Bookm
 * [SQL for one-to-one and many-to-many relationships](https://stackoverflow.com/questions/7296846/how-to-implement-one-to-one-one-to-many-and-many-to-many-relationships-while-de)
 * [How to design a many-to-many relationship](https://dzone.com/articles/how-to-handle-a-many-to-many-relationship-in-datab)
 
-## [Walkthrough](walkthroughs/18.md)
+## [Walkthrough](../walkthroughs/18.md)
 
 ## Ed's Walkthrough
 
 Check out the [pull requests](https://github.com/dearshrewdwit/demo_bookmark_manager/pulls) that show the diff for each section I worked through.
 - branch [`version5`](https://github.com/dearshrewdwit/demo_bookmark_manager/tree/version5): Steps 17 | [recording](https://youtu.be/lUgXzqBaDT4), [recording 2](https://youtu.be/weFlLixdrBw)
 
-[Next Challenge](./19_registration.md)
+[Next Challenge](19_registration.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

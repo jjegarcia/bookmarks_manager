@@ -32,9 +32,9 @@ In this challenge, you will use Postgres' built-in command-line program, `psql`,
 * [SQL in One Page](http://www.cheat-sheets.org/sites/sql.su/)
 * [PostgreSQL Cheat Sheet](https://www.postgresqltutorial.com/postgresql-cheat-sheet/)
 
-## [Walkthrough](walkthroughs/05.md)
+## [Walkthrough](../walkthroughs/05.md)
 
-[Next Challenge](./06_manipulating_table_data.md)
+[Next Challenge](06_manipulating_table_data.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

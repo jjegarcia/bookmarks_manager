@@ -42,9 +42,9 @@ In this stage you'll make a first step towards making your own ORM!
 - [What is an ORM?](https://stackoverflow.com/questions/1279613/what-is-an-orm-and-where-can-i-learn-more-about-it)
 
 
-## [Walkthrough](walkthroughs/15.md)
+## [Walkthrough](../walkthroughs/15.md)
 
-[Next Challenge](./16_validating_bookmarks.md)
+[Next Challenge](16_validating_bookmarks.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

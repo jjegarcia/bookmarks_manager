@@ -32,9 +32,9 @@ In this challenge, you will use SQL to **c**reate, **r**ead (**query**), **u**pd
 * [SQL in One Page](http://www.cheat-sheets.org/sites/sql.su/)
 * [Relational Database: Terminology](https://en.wikipedia.org/wiki/Relational_database#Terminology)
 
-## [Walkthrough](walkthroughs/06.md)
+## [Walkthrough](../walkthroughs/06.md)
 
-[Next Challenge](./07_interacting_with_postgres_from_ruby.md)
+[Next Challenge](07_interacting_with_postgres_from_ruby.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

@@ -35,9 +35,9 @@ In this challenge, you will get the application and database talking to each oth
 * [Talking to PostgreSQL using Ruby via `pg`](https://zetcode.com/db/postgresqlruby/) (most useful is the section called 'Retrieving multiple rows of data')
 * [`pg` documentation](https://github.com/ged/ruby-pg)
 
-## [Walkthrough](walkthroughs/07.md)
+## [Walkthrough](../walkthroughs/07.md)
 
-[Next Challenge](./08_upgrading_your_toolset.md)
+[Next Challenge](08_upgrading_your_toolset.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

@@ -31,9 +31,9 @@ In this challenge, you will play with some tooling that gives you more insight i
 
 * [Why we built TablePlus](https://medium.com/tableplus/modern-native-tool-for-relational-database-79efc35b647d)
 
-## [Walkthrough](walkthroughs/08.md)
+## [Walkthrough](../walkthroughs/08.md)
 
-[Next Challenge](./09_setting_up_a_testing_environment.md)
+[Next Challenge](09_setting_up_a_testing_environment.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

@@ -18,7 +18,7 @@ By the end of the week, the goal is to be able to answer "yes" to the week's pri
 
 - **Can you build a web app that uses a database?**
 
-You can find more detailed learning objectives for this challenge [here](./learning_objectives.md).
+You can find more detailed learning objectives for this challenge [here](../learning_objectives.md).
 
 ### Reminder of all this week's goals from the [Week Outlines](https://github.com/makersacademy/course/blob/main/week_outlines.md)
 
@@ -65,7 +65,7 @@ The challenge material is pretty tough this week. You're not meant to get throug
  9. [Setting up a Testing Environment](09_setting_up_a_testing_environment.md)
  10. [Creating bookmarks](10_creating_bookmarks.md)
  11. [Wrapping Database data in program objects](11_wrapping_database_data_in_program_objects.md)
- 12. [Securing Your App](./12_securing_your_app.md)
+ 12. [Securing Your App](12_securing_your_app.md)
  13. [Deleting bookmarks](13_deleting_bookmarks.md)
  14. [CRUD](14_crud.md)
  15. [Extracting a Database Setup object](15_extracting_a_database_setup_object.md)

@@ -22,13 +22,13 @@ We've written a user story and we have an idea of the first interaction, before 
 
 ## Resources
 
-* [:pill: Ruby Web Project Setup Checklist](../pills/ruby_web_project_setup_list.md)
+* [:pill: Ruby Web Project Setup Checklist](../../pills/ruby_web_project_setup_list.md)
 * [Makers configuration for Rubocop](https://github.com/makersacademy/scaffolint)
 * [RSpec-Sinatra gem](https://github.com/tansaku/rspec-sinatra)
 
-## [Walkthrough](walkthroughs/02.md)
+## [Walkthrough](../walkthroughs/02.md)
 
-[Next Challenge](./03_viewing_bookmarks.md)
+[Next Challenge](03_viewing_bookmarks.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

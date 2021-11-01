@@ -31,9 +31,9 @@ During this challenge step, you and your pair will be tasked with discovering a 
 
 [owasp_top_ten]: https://owasp.org/www-project-top-ten/
 
-## [Walkthrough](walkthroughs/12.md)
+## [Walkthrough](../walkthroughs/12.md)
 
-[Next Challenge](./13_deleting_bookmarks.md)
+[Next Challenge](13_deleting_bookmarks.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

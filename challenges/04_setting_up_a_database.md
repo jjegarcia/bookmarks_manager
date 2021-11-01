@@ -9,7 +9,7 @@ In the next few challenges, we are going to:
 - set up a **database**,
 - play with it a bit to understand its structure
 
-> We'll return to building the Bookmark Manager application in [this challenge](./07_interacting_with_postgres_from_ruby.md), a few challenges down the line. If you're already comfortable with how Relational Databases work, feel free to skip to that challenge.
+> We'll return to building the Bookmark Manager application in [this challenge](07_interacting_with_postgres_from_ruby.md), a few challenges down the line. If you're already comfortable with how Relational Databases work, feel free to skip to that challenge.
 
 In this challenge, you will prepare to move the hard-coded data into a **database**. To do this, you will set up **PostgreSQL** (a database management system) and create a new database.
 
@@ -69,10 +69,10 @@ In this challenge, you will **install the PostgreSQL database system**, and inte
 * [Homebrew Package Manager](https://brew.sh/)
 * [PostgreSQL Command Line Cheat Sheet](https://blog.jasonmeridth.com/posts/postgresql-command-line-cheat-sheet/)
 
-## [Walkthrough - Mac OS](walkthroughs/04_mac.md)
-## [Walkthrough - Linux](walkthroughs/04_linux.md)
+## [Walkthrough - Mac OS](../walkthroughs/04_mac.md)
+## [Walkthrough - Linux](../walkthroughs/04_linux.md)
 
-[Next Challenge](./05_creating_your_first_table.md)
+[Next Challenge](05_creating_your_first_table.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

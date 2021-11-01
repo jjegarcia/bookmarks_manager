@@ -45,13 +45,13 @@ In this challenge, you will set up a [one to many relationship](http://www.datab
 
 * [One-to-many relationships](http://www.databaseprimer.com/pages/relationship_1tox/)
 
-## [Walkthrough](walkthroughs/17.md)
+## [Walkthrough](../walkthroughs/17.md)
 
 ## Ed's Walkthrough
 Check out the [pull requests](https://github.com/dearshrewdwit/demo_bookmark_manager/pulls) that show the diff for each section I worked through.
 - branch [`version4`](https://github.com/dearshrewdwit/demo_bookmark_manager/tree/version4): Steps 16 | [recording](https://youtu.be/-FiN_820MEc)
 
-[Next Challenge](./18_many_to_many_relationships.md)
+[Next Challenge](18_many_to_many_relationships.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

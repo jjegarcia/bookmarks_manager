@@ -80,9 +80,9 @@ Once your feature test is passing, your unit tests for `Bookmark.all` are probab
 * [Difference between TRUNCATE and DROP TABLE](https://stackoverflow.com/questions/135653/difference-between-drop-table-and-truncate-table)
 * [Running a command before each RSpec test](https://stackoverflow.com/questions/9958110/is-it-possible-to-add-somewhere-a-beforeeach-hook-so-that-all-spec-file-c)
 
-## [Walkthrough](walkthroughs/09.md)
+## [Walkthrough](../walkthroughs/09.md)
 
-[Next Challenge](./10_creating_bookmarks.md)
+[Next Challenge](10_creating_bookmarks.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

@@ -45,9 +45,9 @@ In this challenge, you will **register** new users.
 * [You're probably storing passwords incorrectly](https://blog.codinghorror.com/youre-probably-storing-passwords-incorrectly/)
 * [BCrypt, a secure password hasher](https://github.com/codahale/bcrypt-ruby)
 
-## [Walkthrough](walkthroughs/19.md)
+## [Walkthrough](../walkthroughs/19.md)
 
-[Next Challenge](./20_authentication.md)
+[Next Challenge](20_authentication.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
