@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'pg'
 
 task :setup do
@@ -9,7 +11,7 @@ task :setup do
 end
 
 task :seed_db do
-  connection = PG.connect dbname: 'bookmark_manager';
-  connection.exec ('TRUNCATE TABLE bookmarks;')
-  connection.exec ("INSERT INTO countries VALUES (1, 'https://google.com');")
+  connection = PG.connect dbname: 'bookmark_manager'
+  # connection.exec ('TRUNCATE TABLE bookmarks;')
+  connection.exec("INSERT INTO bookmarks VALUES (1, 'https://google.com');")
 end
